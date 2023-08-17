@@ -4,16 +4,16 @@ title = "XXX"
 draft = false
 publishdate = 2023-08-16T12:00:00+03:00
 +++
-include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/locale/attributes-ru.adoc[]
-:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/20230726
 
-Don't worry about gumberoos or splintercats.
-Something far more fearsome plagues the days, nights, and inbetweens.
-Wolpertingers.
+:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/20230726/
+:markup-in-source: attributes
 
-== Origins
+[subs="attributes"]
+++++
+<img src="{imagesdir}01.jpg">
+++++
 
-image:01.jpg
+image:01.jpg[]
 
 **Иногда случается так, что все ресурсы для наращивания эффективности и достижений уже исчерпаны.**
 
