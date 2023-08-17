@@ -1,10 +1,19 @@
 +++
-id: 
-title: Как получать больше, делая меньше
-published: true
+id = 1606242348365563805
+title = "XXX" 
+draft = false
+publishdate = 2023-08-16T12:00:00+03:00
 +++
+include::https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/locale/attributes-ru.adoc[]
+:imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/20230726
 
-![](https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/20230127/01.jpg)
+Don't worry about gumberoos or splintercats.
+Something far more fearsome plagues the days, nights, and inbetweens.
+Wolpertingers.
+
+== Origins
+
+image:01.jpg
 
 **Иногда случается так, что все ресурсы для наращивания эффективности и достижений уже исчерпаны.**
 
@@ -14,7 +23,9 @@ published: true
 
 *Позволь я постараюсь объяснить подробнее…*
 
+++++
 <!--more-->
+++++
 
 Чтобы понять, что я имею в виду, давай обратим свой взгляд на секрет процветания Японских фирм. Многие десятилетия после второй мировой войны промышленность в западных странах бурно развевалась и процветала. Многие годы, западные компании стремительно наращивали свои размеры и техническую оснащенность, **и прибыль**. Но после 70-х годов темпы роста производительности компаний значительно снизились. А в Японских фирмах были проделаны ряд необычных преобразований, которые помогли им значительно превзойти американцев.
 
