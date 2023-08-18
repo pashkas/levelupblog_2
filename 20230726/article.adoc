@@ -6,14 +6,19 @@ publishdate = 2023-08-16T12:00:00+03:00
 +++
 
 :imagesdir: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/20230726/
-:markup-in-source: attributes
+
+
+dfdsdf
 
 [subs="attributes"]
 ++++
 <img src="{imagesdir}01.jpg">
 ++++
 
-image:01.jpg[]
+[subs="attributes"]
+++++
+<img src="{imagesdir}02.jpg">
+++++
 
 **Иногда случается так, что все ресурсы для наращивания эффективности и достижений уже исчерпаны.**
 

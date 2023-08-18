@@ -29,4 +29,3 @@ ifdef::preface-title[:preface-title: Предисловие]
 :sectnumlevels: 0
 :!figure-caption:
 :!table-caption:
-:markup-in-source: attributes
