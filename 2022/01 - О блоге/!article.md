@@ -17,5 +17,5 @@ _Считается, что Пользователь живет вне свое�
 
 [Загрузка!!!][join]
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/11/01.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/01 - О блоге/01.jpg
 [join]: https://t.me/life_levelup

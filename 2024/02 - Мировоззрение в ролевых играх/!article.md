@@ -105,7 +105,7 @@ Published: true
 
 [01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/01.jpg
 [02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/03.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/03.jpeg
 [04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/04.jpg
 [05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/05.jpg
 [06]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/06.jpg
