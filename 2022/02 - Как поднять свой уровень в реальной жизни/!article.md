@@ -152,14 +152,14 @@ Published: true
 
 *В конце концов, мы играем только до тех пор, пока это приносит удовольствие...*
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/03.jpg
-[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/04.jpg
-[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/05.jpg
-[06]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/06.jpg
-[07]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/07.jpg
-[08]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/08.jpg
-[09]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/09.jpg
-[10]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/07/20/10.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/02.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/03.jpg
+[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/04.jpg
+[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/05.jpg
+[06]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/06.jpg
+[07]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/07.jpg
+[08]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/08.jpg
+[09]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/09.jpg
+[10]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2022/02 - Как поднять свой уровень в реальной жизни/10.jpg
 [whatYouWant]: https://life-levelup.blogspot.com/2023/01/blog-post.html

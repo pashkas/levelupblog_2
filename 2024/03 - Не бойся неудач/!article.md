@@ -1,6 +1,6 @@
 <!-- 
 Title: Не бойся неудач 
-PostId:
+PostId: 2868878889153784373
 Labels: Записи
 Published: true
 -->
@@ -48,5 +48,5 @@ Published: true
 
 Надеюсь, это поможет тебе избежать лишних переживаний и сомнений. Если ты не можешь следовать идеальному плану, все равно делай, если так решил. Это лучше, чем ничего. Не бойся ошибок. Ты справишься. И независимо от результата, я буду гордиться тобой.
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/07/16/01.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/03 - Не бойся неудач/01.jpg
 [levelUp]: https://life-levelup.blogspot.com/2022/07/blog-post_20.html

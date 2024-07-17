@@ -73,9 +73,9 @@ Published: true
 
 Найди свое предназначение. То, чем нравится заниматься и то, что будет полезно другим. Тогда эта деятельность будет даваться тебе легко, ты будешь чувствовать поддержку и огромное удовлетворение. Конечно, иногда будет сложно! Но у тебя всегда будут находиться силы для преодоления препятствий! К тому же ты постепенно заметишь, что вся твоя жизнь стала больше наполнена смыслом, и что с тобой чаще стали происходить хорошие вещи, ты станешь более удачливым и будешь легче преодолевать препятствия.
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/19/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/19/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/19/03.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/02 - Советы от мастера Йоды для достижения успеха/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/02 - Советы от мастера Йоды для достижения успеха/02.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/02 - Советы от мастера Йоды для достижения успеха/03.jpg
 [levelUp]: https://life-levelup.blogspot.com/2022/07/blog-post_20.html
 [fuckGenetic]: https://life-levelup.blogspot.com/2023/01/blog-post_94.html
 [darkSide]: https://life-levelup.blogspot.com/2023/01/blog-post_19.html

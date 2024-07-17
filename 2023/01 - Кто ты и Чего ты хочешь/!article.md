@@ -94,7 +94,7 @@ Published: true
 
 **Чего ты ДЕЙСТВИТЕЛЬНО хочешь, черт возьми!?**
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/18/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/18/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/18/03.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01 - Кто ты и Чего ты хочешь/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01 - Кто ты и Чего ты хочешь/02.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01 - Кто ты и Чего ты хочешь/03.jpg
 [levelUp]: https://life-levelup.blogspot.com/2022/07/blog-post_20.html

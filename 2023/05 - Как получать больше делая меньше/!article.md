@@ -129,5 +129,5 @@ Published: true
 
 *Понятно, что ты итак все это знал, но я предлагаю обратить на этот вопрос более пристальное внимание.*
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/08/16/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/08/16/02.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/05 - Как получать больше делая меньше/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/05 - Как получать больше делая меньше/02.jpg

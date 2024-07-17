@@ -98,11 +98,11 @@ Published: true
 
 **Дарт Вейдер смог измениться, и ты тоже сможешь!**
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/20/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/20/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/20/03.jpg
-[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/20/04.jpg
-[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/01/20/053.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/03 - Советы от Дарта Вейдера для достижения успеха/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/03 - Советы от Дарта Вейдера для достижения успеха/02.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/03 - Советы от Дарта Вейдера для достижения успеха/03.jpg
+[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/03 - Советы от Дарта Вейдера для достижения успеха/04.jpg
+[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/03 - Советы от Дарта Вейдера для достижения успеха/053.jpg
 [udjhai]: http://yogajournal.ru/body/practice/home-practice/10-prichin-dyshat-udzhayi/
 [yoda]: https://life-levelup.blogspot.com/2023/01/blog-post_18.html
 [levelUp]: https://life-levelup.blogspot.com/2022/07/blog-post_20.html

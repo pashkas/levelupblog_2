@@ -103,14 +103,14 @@ Published: true
 
 **Для чего стоит заморачиваться обо всем этом?** *Для начала, потому что это весело. Более важно, что многие люди не задумываются о том, как они относятся к этому миру. Они просто реагируют на внешние обстоятельства не размышляя об этом. Смысл этого упражнения в том, чтобы чуть лучше понять [кто ты и чего ты хочешь][whatYouWant]? Для того, чтобы иметь направление, мотивацию для того, чтобы принимать решения по жизни, формировать цели и [прокачивать себя в реальной жизни][levelUp].*
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/03.jpeg
-[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/04.jpg
-[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/05.jpg
-[06]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/06.jpg
-[07]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/07.jpg
-[08]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/08.jpg
-[09]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08_2/09.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/02.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/03.jpeg
+[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/04.jpg
+[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/05.jpg
+[06]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/06.jpg
+[07]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/07.jpg
+[08]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/08.jpg
+[09]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/02 - Мировоззрение в ролевых играх/09.jpg
 [whatYouWant]: https://life-levelup.blogspot.com/2023/01/blog-post.html
 [levelUp]: https://life-levelup.blogspot.com/2022/07/blog-post_20.html

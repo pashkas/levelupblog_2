@@ -163,10 +163,10 @@ Published: true
 
 **Иди вперед\...**
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08/03.jpg
-[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08/04.jpg
-[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/04/08/05.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/01 - Советы восьмибитных игр для достижения успеха/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/01 - Советы восьмибитных игр для достижения успеха/02.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/01 - Советы восьмибитных игр для достижения успеха/03.jpg
+[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/01 - Советы восьмибитных игр для достижения успеха/04.jpg
+[05]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2024/01 - Советы восьмибитных игр для достижения успеха/05.jpg
 [levelUp]: https://life-levelup.blogspot.com/2022/07/blog-post_20.html
 [Chack]: https://pikabu.ru/story/chaku_norrisu__80_7280057

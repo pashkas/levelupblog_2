@@ -96,8 +96,8 @@ Labels: Записи
 *Есть еще мысли как тратить меньше воли для действий, и как пополнять и развивать свою волю?*
 
 
-[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/08/23/01.jpg
-[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/08/23/02.jpg
-[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/08/23/03.jpg
-[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/08/23/04.jpg
+[01]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/06 - Как закончить то что ты начал/01.jpg
+[02]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/06 - Как закончить то что ты начал/02.jpg
+[03]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/06 - Как закончить то что ты начал/03.jpg
+[04]: https://cdn.jsdelivr.net/gh/pashkas/levelupblog_2/2023/06 - Как закончить то что ты начал/04.jpg
 [levelup]: https://life-levelup.blogspot.com/2022/07/blog-post_20.html
